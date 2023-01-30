@@ -73,7 +73,7 @@ a {
 }
 
 #greetings {
-  background-image: url(/background.jpg);
+  background-image: url(./background.jpg);
   background-size: cover;
   background-position: top center;
   position: relative;
